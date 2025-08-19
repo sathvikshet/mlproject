@@ -31,6 +31,7 @@ Features
 
 
 📊 Workflow
+
 1.Data Ingestion → Load CSV → Train-Test split → Save artifacts  
 2.Data Transformation→ Imputation → Encoding → Scaling → Save preprocessor  
 3.Model Training → Train multiple regressors → Hyperparameter tuning → Select best model → Save  
@@ -42,7 +43,7 @@ Features
  🖥️ To Run the Project:
  Clone the repo
 
-git clone https://github.com/your-username/studentstudent-exam-performanc
+git clone 
 
 cd student-exam-performance
 
