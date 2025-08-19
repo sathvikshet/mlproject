@@ -43,7 +43,7 @@ Features
  🖥️ To Run the Project:
  Clone the repo
 
-git clone 
+git clone https://github.com/sathvikshet/mlproject
 
 cd student-exam-performance
 
